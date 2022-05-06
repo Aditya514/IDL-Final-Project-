@@ -15,7 +15,7 @@ Since we mainly used Google Colab for this project, care should be taken to spec
 
 While we have desgined the architecture on our own, it is inspired by a homework in another course thaught at CMU, that each member of the team has taken.
 This course is 16-824 Visual Learning and Recognition which we have taken in Spring 2022.
-The homework was based on the[2]
+The homework was based on [2]
 
 [1] https://ieeexplore.ieee.org/document/6175005
 [2] https://arxiv.org/pdf/1606.00061.pdf
